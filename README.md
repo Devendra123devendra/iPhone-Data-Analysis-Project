@@ -1,1 +1,1 @@
-<img src="MxYaxwe1XeAcvGFX.jpg" alt="Redmi Phone" width="1000">
+<img src="MxYaxwe1XeAcvGFX.jpg" alt="Redmi Phone" width="2000">
